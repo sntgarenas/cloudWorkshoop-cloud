@@ -1,0 +1,17 @@
+com/cloud/movie/MovieApplication.java
+ com.cloud.movie.MovieApplication
+com/cloud/movie/repositories/MovieRepository.java
+ com.cloud.movie.repositories.MovieRepository
+com/cloud/movie/BeansConfiguration.java
+ com.cloud.movie.BeansConfiguration
+com/cloud/movie/dto/MovieDto.java
+ com.cloud.movie.dto.MovieDto
+com/cloud/movie/services/MovieService.java
+ com.cloud.movie.services.MovieService
+com/cloud/movie/entities/Movie.java
+ com.cloud.movie.entities.Movie
+ com.cloud.movie.entities.Movie$MovieBuilder
+com/cloud/movie/services/MovieServiceImpl.java
+ com.cloud.movie.services.MovieServiceImpl
+com/cloud/movie/controller/MovieController.java
+ com.cloud.movie.controller.MovieController
